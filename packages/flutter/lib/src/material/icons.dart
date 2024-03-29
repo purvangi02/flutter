@@ -157,7 +157,7 @@ abstract final class Icons {
   /// icons on Apple platforms.
   ///
   /// Use with the [Icon] class to show specific icons.
-  ///
+  ///x
   /// {@tool snippet}
   /// This example shows how to create a share icon that uses the material icon
   /// named "share" on non-Apple platforms, and the icon named "ios share" on
